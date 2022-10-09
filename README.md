@@ -1,1 +1,3 @@
-# Churn-analysis-in-Pyspark
+
+Churn Analysis with Pyspark
+This tutorial is created on the databricks cloud. It presents six classifiers that will be compared at the cross validation part. I will explain how to compute the different evaluate metrics on the binary classification case. Churn prediction is big business. It minimizes customer defection by predicting which customers are likely to cancel a subscription to a service. Though originally used within the telecommunications industry, it has become common practice across banks, ISPs, insurance firms, and other verticals. The prediction process is heavily data driven and often utilizes advanced machine learning techniques. In this post, we will take a look at what types of customer data are typically used, do some preliminary analysis of the data, and generate churn prediction models - all with PySpark and its machine learning frameworks.
